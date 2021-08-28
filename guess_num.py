@@ -14,4 +14,5 @@ while True:
            print("要更小") 
         else:
            print("要更大") 
+    print("你猜了第",i,"次")
 
